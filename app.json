@@ -3,8 +3,19 @@
   "name": "Member Tagger",
   "description": "A member tagger bot for telegram Groups.",
   "env": {
-    "TOKEN": {
-     },
+    "BOT_TOKEN": {
+      "description": "Enter bot token Get It From @botfather.",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org! Please do not steal.",
+      "value": ""
+    }
+  },
   "buildpacks": [{
     "url": "https://github.com/heroku/heroku-buildpack-python.git"
   }]

@@ -26,9 +26,6 @@ if not os.path.exists(f"Users/2056781888/phone.csv"):
    open(f"Users/2056781888/phone.csv","w")
 if not os.path.exists('data.csv'):
     open("data.csv","w")
-APP_ID = 9763099
-API_HASH = "74b13f16e64c7301f3c882b74ea62ede"
-BOT_TOKEN = "5178364750:AAE9RVuuYKZXK1QgeeLIK36q5j15c04Xsqo"
 UPDATES_CHANNEL = "Modmenumaking"
 OWNER= [1323020756,5123633430]
 PREMIUM=[1323020756,5123633430]
