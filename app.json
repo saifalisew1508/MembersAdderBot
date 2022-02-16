@@ -1,0 +1,11 @@
+{
+  "logo":"https://telegra.ph/file/91003e77f23a2f2a03229.jpg",
+  "name": "Member Tagger",
+  "description": "A member tagger bot for telegram Groups.",
+  "env": {
+    "TOKEN": {
+     },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
