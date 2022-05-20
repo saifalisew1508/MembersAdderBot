@@ -10,8 +10,9 @@
 
 ## 🚀 Okteto Deployment
 <h4>Click the button below to deploy on Okteto!</h4>
-<a href="https://cloud.okteto.com/deploy?repository=https://github.com/saifalisew1508/MembersAdderBot"><img src="https://img.shields.io/badge/Deploy%20To%20okteto-informational?style=for-the-badge&logo=Okteto" width="150""/></a>
-  
+
+[![Develop on Okteto](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/saifalisew1508/MembersAdderBot&branch=main)
+
 ## 🚀 Railway Deployment
 <h4>Click the button below to deploy on Railway!</h4>
 
