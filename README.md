@@ -1,7 +1,4 @@
-# InducedScraping
-
-
-## installing
+# Deploy Method
 
 ## 🚀 Heroku Deployment
 ###### Click the button below to deploy on Heroku!
