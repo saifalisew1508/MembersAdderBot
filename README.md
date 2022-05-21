@@ -10,4 +10,4 @@
 
 ## 🚀 Railway Deployment
 ###### Click the button below to deploy on Railway!
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/saifalisew1508/MembersAdderBot&envs=APP_ID,API_HASH,BOT_TOKEN)
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/saifalisew1508/MembersAdderBot&envs=API_ID,API_HASH,BOT_TOKEN)
