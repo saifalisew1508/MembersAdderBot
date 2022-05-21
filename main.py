@@ -16,6 +16,7 @@ from pyromod import listen
 from sql import add_user, query_msg
 from support import users_info
 from datetime import datetime, timedelta,date
+from Config import APP_ID, API_HASH, BOT_TOKEN
 import csv
 #add_user= query_msg= users_info=0
 if not os.path.exists('./sessions'):
