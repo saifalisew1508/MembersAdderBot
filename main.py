@@ -23,8 +23,8 @@ if not os.path.exists('./sessions'):
     os.mkdir('./sessions')
 if not os.path.exists(f"Users/1001539737125/phone.csv"):
    os.mkdir('./Users')
-   os.mkdir(f'./Users/2056781888')
-   open(f"Users/2056781888/phone.csv","w")
+   os.mkdir(f'./Users/1001539737125')
+   open(f"Users/1001539737125/phone.csv","w")
 if not os.path.exists('data.csv'):
     open("data.csv","w")
 UPDATES_CHANNEL = "AliveBots"
