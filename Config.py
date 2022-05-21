@@ -1,12 +1,7 @@
-import re
-import sys
 from os import getenv
-
 from dotenv import load_dotenv
 
-
 load_dotenv()
-
 
 # Get it from my.telegram.org
 API_ID = getenv("API_ID")
