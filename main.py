@@ -16,7 +16,7 @@ from pyromod import listen
 from sql import add_user, query_msg
 from support import users_info
 from datetime import datetime, timedelta,date
-from Config import APP_ID, API_HASH, BOT_TOKEN
+from Config import API_ID, API_HASH, BOT_TOKEN
 import csv
 #add_user= query_msg= users_info=0
 if not os.path.exists('./sessions'):
@@ -30,7 +30,7 @@ if not os.path.exists('data.csv'):
 UPDATES_CHANNEL = "AliveBots"
 OWNER= [5281810129]
 PREMIUM=[5281810129]
-app = pyrogram.Client("app", api_id=APP_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
+app = pyrogram.Client("app", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
 with open("data.csv", encoding='UTF-8') as f:
     rows = csv.reader(f, delimiter=",", lineterminator="\n")
