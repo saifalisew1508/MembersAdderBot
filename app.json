@@ -1,10 +1,10 @@
 {
   "logo":"https://telegra.ph/file/91003e77f23a2f2a03229.jpg",
-  "name": "Member Tagger",
-  "description": "A member tagger bot for telegram Groups.",
+  "name": "Member Adder",
+  "description": "A member adder bot for telegram.",
   "env": {
     "BOT_TOKEN": {
-      "description": "Enter bot token Get It From @botfather.",
+      "description": "Enter bot token Get It From @botfather! Please do not steal.",
       "value": ""
     },
     "APP_ID": {
