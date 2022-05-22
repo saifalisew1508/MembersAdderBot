@@ -21,10 +21,10 @@ import csv
 #add_user= query_msg= users_info=0
 if not os.path.exists('./sessions'):
     os.mkdir('./sessions')
-if not os.path.exists(f"Users/1001539737125/phone.csv"):
+if not os.path.exists(f"Users/628135715/phone.csv"):
    os.mkdir('./Users')
-   os.mkdir(f'./Users/1001539737125')
-   open(f"Users/1001539737125/phone.csv","w")
+   os.mkdir(f'./Users/628135715')
+   open(f"Users/628135715/phone.csv","w")
 if not os.path.exists('data.csv'):
     open("data.csv","w")
 UPDATES_CHANNEL = "AliveBots"
