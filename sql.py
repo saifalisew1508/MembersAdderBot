@@ -44,9 +44,12 @@ async def add_user(id, user_name):
             usr = Broadcast(id, user_name)
             SESSION.add(usr)
             SESSION.commit()
+        else:
+            pass
 
 async def query_msg():
     try:
-        return SESSION.query(Broadcast.id).order_by(Broadcast.id)
+        query = SESSION.query(Broadcast.id).order_by(Broadcast.id)
+        return query
     finally:
         SESSION.close()
