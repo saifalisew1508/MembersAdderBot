@@ -13,7 +13,7 @@
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/saifalisew1508/MembersAdderBot&envs=API_ID,API_HASH,BOT_TOKEN)
 
 
-## Credit
+## owner
 
 
-[@IshanSingla](https://github.com/IshanSingla/ScrapingBot-1.1v)
+[@saifalisew1508](https://telegram.me/saifalisew1508)
